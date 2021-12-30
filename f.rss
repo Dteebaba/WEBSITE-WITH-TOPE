@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ITU,college of medicine</title>
+        <link>https://itucollegeofmedicine.godaddysites.com</link>
+        <description>ITU,college of medicine</description>
+        <lastBuildDate>Wed, 29 Dec 2021 14:44:57 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>ITU,college of medicine</generator>
+        <atom:link href="https://itucollegeofmedicine.godaddysites.com/services/f" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[E LEARNIN]]></title>
+            <link>https://itucollegeofmedicine.godaddysites.com/services/f/e-learnin</link>
+            <guid>https://itucollegeofmedicine.godaddysites.com/services/f/e-learnin</guid>
+            <pubDate>Wed, 29 Dec 2021 14:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/elearning.png"/><p></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GmExS (Financial Management Solution)]]></title>
+            <link>https://itucollegeofmedicine.godaddysites.com/services/f/gmexs-financial-management-solution</link>
+            <guid>https://itucollegeofmedicine.godaddysites.com/services/f/gmexs-financial-management-solution</guid>
+            <pubDate>Wed, 29 Dec 2021 14:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/gmexs.png"/><p></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[APCV MAKER]]></title>
+            <link>https://itucollegeofmedicine.godaddysites.com/services/f/apcv-maker</link>
+            <guid>https://itucollegeofmedicine.godaddysites.com/services/f/apcv-maker</guid>
+            <pubDate>Wed, 29 Dec 2021 14:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/apcv.png"/><p></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[COLLEGE MAIL]]></title>
+            <link>https://itucollegeofmedicine.godaddysites.com/services/f/college-mail</link>
+            <guid>https://itucollegeofmedicine.godaddysites.com/services/f/college-mail</guid>
+            <pubDate>Wed, 29 Dec 2021 14:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/mail.png"/><p></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

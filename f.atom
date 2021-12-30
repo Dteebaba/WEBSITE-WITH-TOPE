@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://itucollegeofmedicine.godaddysites.com</id>
+    <title>ITU,college of medicine</title>
+    <updated>2021-12-29T14:44:57Z</updated>
+    <generator>ITU,college of medicine</generator>
+    <author>
+        <name>ITU,college of medicine</name>
+    </author>
+    <link rel="alternate" href="https://itucollegeofmedicine.godaddysites.com"/>
+    <link rel="self" href="https://itucollegeofmedicine.godaddysites.com/services/f"/>
+    <subtitle>ITU,college of medicine</subtitle>
+    <entry>
+        <title type="html"><![CDATA[E LEARNIN]]></title>
+        <id>e-learnin</id>
+        <link href="https://itucollegeofmedicine.godaddysites.com/services/f/e-learnin">
+        </link>
+        <updated>2021-12-29T14:44:57Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/elearning.png"/><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GmExS (Financial Management Solution)]]></title>
+        <id>gmexs-financial-management-solution</id>
+        <link href="https://itucollegeofmedicine.godaddysites.com/services/f/gmexs-financial-management-solution">
+        </link>
+        <updated>2021-12-29T14:43:27Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/gmexs.png"/><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APCV MAKER]]></title>
+        <id>apcv-maker</id>
+        <link href="https://itucollegeofmedicine.godaddysites.com/services/f/apcv-maker">
+        </link>
+        <updated>2021-12-29T14:40:17Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/apcv.png"/><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COLLEGE MAIL]]></title>
+        <id>college-mail</id>
+        <link href="https://itucollegeofmedicine.godaddysites.com/services/f/college-mail">
+        </link>
+        <updated>2021-12-29T14:35:57Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3ee0dd7e-9d7b-48c5-ad70-9ebbd0f555f4/mail.png"/><p></p>]]></content>
+    </entry>
+</feed>
